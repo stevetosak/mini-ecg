@@ -69,8 +69,8 @@
 
 OLED (I2C):
 
-* SDA → GPIO21
-* SCL → GPIO22
+* SDA → GPIO20
+* SCL → GPIO21
 * VCC → 3.3V
 * GND → GND
 
